@@ -307,6 +307,6 @@ El objetivo es documentar la arquitectura, decisiones técnicas, desafíos y apr
 
 ## 14. Enlaces
 
-🌐 Sitio web: https://kaphigames.com
-💼 LinkedIn: https://www.linkedin.com/in/cristobal-sanchez-orellana/
-🐙 GitHub: https://github.com/CrisKaphiri
+Sitio web: https://kaphigames.com
+LinkedIn: https://www.linkedin.com/in/cristobal-sanchez-orellana/
+GitHub: https://github.com/CrisKaphiri
