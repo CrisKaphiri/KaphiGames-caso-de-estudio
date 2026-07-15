@@ -40,7 +40,7 @@ Actualmente, la plataforma se encuentra operativa en producción, gestionando un
 
 ---
 
-## 2. Objetivos del Proyecto
+## 2. Objetivos del proyecto
 
 - Construir una plataforma e-commerce mantenible y escalable.
 - Gestionar un catálogo extenso de productos mediante estructuras dinámicas.
@@ -51,7 +51,7 @@ Actualmente, la plataforma se encuentra operativa en producción, gestionando un
 
 ---
 
-## 3. Mi Rol
+## 3. Mi rol
 
 Durante el desarrollo del proyecto fui responsable de:
 
@@ -67,7 +67,7 @@ Durante el desarrollo del proyecto fui responsable de:
 
 ---
 
-## 4. Arquitectura de la Solución
+## 4. Arquitectura de la solución
 
 ```text
 Usuario
@@ -114,7 +114,7 @@ Distribución y velocidad del sitio.
 
 ---
 
-## 5. Tecnologías Utilizadas
+## 5. Tecnologías utilizadas
 
 | Categoría | Tecnologías |
 |-----------|-------------|
@@ -128,7 +128,7 @@ Distribución y velocidad del sitio.
 
 ---
 
-## 6. Principales Desafíos Técnicos
+## 6. Principales desafíos técnicos
 
 ### 6.1 Gestión de un catálogo extenso
 
@@ -157,7 +157,7 @@ El crecimiento del catálogo y la cantidad de recursos estáticos generaban desa
 
 ---
 
-### 6.3 SEO Técnico
+### 6.3 SEO técnico
 
 La plataforma presentó desafíos relacionados con la gestión de un gran volumen de URLs, indexación de productos y resolución de problemas de contenido duplicado y URLs canónicas.
 
@@ -171,7 +171,7 @@ La plataforma presentó desafíos relacionados con la gestión de un gran volume
 
 ---
 
-### 6.4 Evolución Continua del Producto
+### 6.4 Evolución continua del producto
 
 La plataforma requiere mejoras constantes basadas en necesidades reales del negocio.
 
@@ -182,7 +182,7 @@ La plataforma requiere mejoras constantes basadas en necesidades reales del nego
 
 ---
 
-## 7. Rendimiento y Optimización Web
+## 7. Rendimiento y optimización web
 
 El crecimiento del catálogo, la utilización de contenido dinámico mediante WooCommerce y JetEngine, junto con la gran cantidad de recursos multimedia, hicieron necesario implementar una estrategia de optimización continua para mantener una experiencia de usuario fluida.
 
@@ -231,7 +231,7 @@ El crecimiento del catálogo, la utilización de contenido dinámico mediante Wo
 
 ---
 
-## 9. Impacto del Proyecto
+## 9. Impacto del proyecto
 
 La creación de la plataforma permitió centralizar la operación del negocio y reducir la dependencia de canales externos, habilitando nuevas posibilidades de crecimiento y administración.
 
@@ -271,7 +271,7 @@ Entre los principales impactos destacan:
 
 ---
 
-## 11. Aprendizajes
+## 11. Aprendizaje
 
 Este proyecto me permitió profundizar conocimientos en:
 
@@ -287,7 +287,7 @@ Este proyecto me permitió profundizar conocimientos en:
 
 ---
 
-## 12. Próximos Pasos
+## 12. Próximos pasos
 
 - Continuar optimizando rendimiento y SEO técnico.
 - Mejorar procesos de automatización y administración.
